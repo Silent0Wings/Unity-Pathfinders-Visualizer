@@ -16,6 +16,7 @@ This repository contains a simple and straightforward implementation of the Brea
 1. Clone the repository:
 2. Open the project in Unity.
 3. Run the scene to see the BFS algorithm in action.
+4. Acticate Gizmos
 
 ## Usage
 - The grid and obstacles are generated randomly each time the scene is run.
