@@ -1,5 +1,5 @@
 # Unity Simple Breadth First Search
-![Example Image]([https://github.com/Silent0Wings/Unity-Simple-BFS/blob/main/ScreenShot/BFS%20(5).png])
+![Example Image](https://github.com/Silent0Wings/Unity-Simple-BFS/blob/main/ScreenShot/BFS%20(5).png)
 ## Description
 This repository contains a simple and straightforward implementation of the Breadth-First Search (BFS) algorithm in Unity. Designed for educational purposes, it features an unoptimized BFS algorithm visualized using Unity Gizmos. The project demonstrates the pathfinding process on a grid with randomly generated obstacles.
 
