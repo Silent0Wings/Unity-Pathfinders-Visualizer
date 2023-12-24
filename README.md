@@ -1,24 +1,27 @@
-# Unity Simple Breadth First Search
-![Example Image](https://github.com/Silent0Wings/Unity-Simple-BFS/blob/main/ScreenShot/BFS%20(0).png)
+# Unity Pathfinding Algorithms Visualization
+
+![Example Image](https://github.com/Silent0Wings/Unity-Pathfinding-Visualization/blob/main/ScreenShot/Pathfinding.png)
 
 ## Description
-This repository contains a simple and straightforward implementation of the Breadth-First Search (BFS) algorithm in Unity. Designed for educational purposes, it features an unoptimized BFS algorithm visualized using Unity Gizmos, serving as a visualization tool for understanding the BFS algorithm. Please note that this project is intended for use in the Unity editor only, as it utilizes Gizmos, which cannot be used in a build. The project demonstrates the pathfinding process on a grid with randomly generated obstacles.
+This repository is dedicated to visualizing popular pathfinding algorithms in Unity. Currently, it includes implementations of Breadth-First Search (BFS) and Depth-First Search (DFS). This project serves as an educational tool, providing a visual understanding of how these algorithms navigate through a space. The algorithms are visualized using Unity Gizmos, making it an excellent resource for learning and teaching pathfinding concepts within the Unity editor. Please note that this project is intended for use in the Unity editor only, as it relies on Gizmos, which are not available in builds. It demonstrates the pathfinding process on a grid with randomly generated obstacles, showcasing the differences in approach between BFS and DFS.
 
 ## Features
-- **Breadth-First Search Algorithm:** A basic implementation of BFS.
-- **Unity Gizmos Visualization:** Watch the BFS algorithm in action within the Unity editor.
-- **Random Obstacle Generation:** Dynamic grid environment with obstacles.
+- **Pathfinding Algorithms:** Visual implementations of Breadth-First Search and Depth-First Search.
+- **Unity Gizmos Visualization:** Observe the pathfinding algorithms in real-time within the Unity editor.
+- **Random Obstacle Generation:** Each run generates a dynamic grid environment with unique obstacles.
 
 ## Getting Started
 ### Prerequisites
-- Unity
+- Unity (specify the required version)
 
 ### Installation
 1. Clone the repository:
 2. Open the project in Unity.
-3. Run the scene to see the BFS algorithm in action.
-4. Activate Gizmos.
+3. Run the scene to see the pathfinding algorithms in action.
+4. Activate Gizmos for a better visualization experience.
 
 ## Usage
-- The grid and obstacles are generated randomly each time the scene is run.
-- Use the Unity Editor to modify parameters and observe different behaviors of the BFS algorithm.
+- The grid and obstacles are randomly generated every time the scene is run.
+- The Unity Editor allows for parameter modification to observe different behaviors of both BFS and DFS algorithms.
+
+## License
