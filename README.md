@@ -30,6 +30,8 @@ To get started with Unity Pathfinders Visualized:
 
 4. Activate Gizmos in the Unity editor for improved visualization.
 
+**Please Note:** This project cannot be built as it relies on Unity Gizmos, which is an editor-only feature. It is intended for use within the Unity editor for algorithm visualization.
+
 ## Usage
 
 Customize pathfinding experiments by adjusting parameters and selecting different algorithms. Explore algorithm behavior in various grid environments.
