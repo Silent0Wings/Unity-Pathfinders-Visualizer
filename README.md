@@ -1,27 +1,26 @@
-# Unity Pathfinding Algorithms Visualization
+# Unity Pathfinders Visualized
 
-![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(0).png)
+![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/Pathfinding.png)
 
 ## Description
-This repository is dedicated to visualizing popular pathfinding algorithms in Unity. Currently, it includes implementations of Breadth-First Search (BFS) and Depth-First Search (DFS). This project serves as an educational tool, providing a visual understanding of how these algorithms navigate through a space. The algorithms are visualized using Unity Gizmos, making it an excellent resource for learning and teaching pathfinding concepts within the Unity editor. Please note that this project is intended for use in the Unity editor only, as it relies on Gizmos, which are not available in builds. It demonstrates the pathfinding process on a grid with randomly generated obstacles, showcasing the differences in approach between BFS and DFS.
+Unity Pathfinders Visualized is a project focused on demonstrating popular pathfinding algorithms like Breadth-First Search (BFS) and Depth-First Search (DFS) in Unity. It serves as an educational tool to visually understand how these algorithms work in navigating through spaces. The project uniquely uses Unity Gizmos for visualization, making it ideal for learning and teaching pathfinding within the Unity editor. Please note that this project is designed solely for educational purposes within the Unity editor and cannot be built into a standalone application, as it relies on Unity Gizmos, which are not available in builds. The visualization shows the pathfinding process on a grid with randomly generated obstacles, highlighting the distinct behaviors of BFS and DFS.
 
 ## Features
 - **Pathfinding Algorithms:** Visual implementations of Breadth-First Search and Depth-First Search.
-- **Unity Gizmos Visualization:** Observe the pathfinding algorithms in real-time within the Unity editor.
-- **Random Obstacle Generation:** Each run generates a dynamic grid environment with unique obstacles.
+- **Unity Gizmos Visualization:** Real-time observation of the pathfinding algorithms within the Unity editor.
+- **Random Obstacle Generation:** Each run generates a dynamic grid with unique obstacles.
 
 ## Getting Started
 ### Prerequisites
 - Unity (specify the required version)
 
 ### Installation
-1. Clone the repository:
-2. Open the project in Unity.
-3. Run the scene to see the pathfinding algorithms in action.
-4. Activate Gizmos for a better visualization experience.
+1. Open the project in Unity.
+2. Run the scene to see the pathfinding algorithms visualized.
+3. Activate Gizmos in the Unity editor for optimal visualization.
 
 ## Usage
-- The grid and obstacles are randomly generated every time the scene is run.
-- The Unity Editor allows for parameter modification to observe different behaviors of both BFS and DFS algorithms.
+- The grid and obstacles are randomly generated upon each run of the scene.
+- Parameters can be adjusted within the Unity Editor to observe different behaviors of both BFS and DFS algorithms.
 
 ## License
