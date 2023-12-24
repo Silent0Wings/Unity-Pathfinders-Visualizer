@@ -1,6 +1,6 @@
 # Unity Pathfinding Algorithms Visualization
 
-![Example Image](https://github.com/Silent0Wings/Unity-Pathfinding-Visualization/blob/main/ScreenShot/Pathfinding.png)
+![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(0).png)
 
 ## Description
 This repository is dedicated to visualizing popular pathfinding algorithms in Unity. Currently, it includes implementations of Breadth-First Search (BFS) and Depth-First Search (DFS). This project serves as an educational tool, providing a visual understanding of how these algorithms navigate through a space. The algorithms are visualized using Unity Gizmos, making it an excellent resource for learning and teaching pathfinding concepts within the Unity editor. Please note that this project is intended for use in the Unity editor only, as it relies on Gizmos, which are not available in builds. It demonstrates the pathfinding process on a grid with randomly generated obstacles, showcasing the differences in approach between BFS and DFS.
