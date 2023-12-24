@@ -1,6 +1,6 @@
 # Unity Pathfinders Visualized
 
-![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/Screenshot%202023-12-24%20012351.png)
+![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(6).png)
 
 ## Description
 This repository is a pathfinding algorithm visualizer using Gizmos from the Unity engine. It currently includes implementations of Breadth-First Search (BFS), Depth-First Search (DFS), and Swarm Pathfinding algorithms.
