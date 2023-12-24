@@ -2,52 +2,51 @@
 
 ![Example Image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(6).png)
 
-## Overview
-Unity Pathfinders Visualized is a Unity project designed to help you understand and visualize various pathfinding algorithms using Gizmos from the Unity engine. This project provides an interactive environment for learning and experimenting with pathfinding techniques within the Unity editor.
-
-## Supported Algorithms
-This project currently includes the following pathfinding algorithms:
-
-### Breadth-First Search (BFS)
-Breadth-First Search is an algorithm that explores all the vertices of a graph in breadthward motion. It is particularly useful for finding the shortest path in unweighted graphs.
-
-### Depth-First Search (DFS)
-Depth-First Search is an algorithm that explores as far as possible along a branch before backtracking. It is commonly used for tasks such as topological sorting and maze generation.
-
-### Swarm Pathfinding
-Swarm Pathfinding is a unique pathfinding algorithm inspired by swarm behavior. It offers an alternative approach to solving pathfinding problems by simulating the collective behavior of swarms.
-
 ## Description
-The code in this repository serves as the foundation for Unity Pathfinders Visualized. It includes several key components and functions to achieve the following:
 
-- **Grid Generation:** The code generates a grid-based environment within the Unity scene. This grid serves as the canvas on which the pathfinding algorithms operate.
+Unity Pathfinders Visualized is an interactive Unity project that allows you to explore and understand various pathfinding algorithms visually. This project leverages the power of Unity's Gizmos to provide real-time visualization of pathfinding algorithms within the Unity editor.
 
-- **Pathfinding Algorithms:** The repository contains implementations of three pathfinding algorithms: Breadth-First Search (BFS), Depth-First Search (DFS), and Swarm Pathfinding. These algorithms are designed to find the optimal path from a start point to an end point within the grid.
+### Pathfinding Algorithms
 
-- **Real-Time Visualization:** Utilizing Unity Gizmos, the code provides real-time visualization of the pathfinding algorithms within the Unity editor. This visualization helps users understand how each algorithm explores the grid and makes decisions.
+The heart of this project lies in its implementation of three distinct pathfinding algorithms:
 
-- **Dynamic Obstacle Generation:** With each run of the scene, the code generates a dynamic grid with unique obstacles. These obstacles can be adjusted and randomized, allowing users to test the algorithms in various challenging environments.
+#### Breadth-First Search (BFS)
 
-## Key Features
-- **Real-Time Visualization:** Utilizing Unity Gizmos, this project provides real-time visualization of pathfinding algorithms within the Unity editor. You can observe the algorithms in action and gain insights into their inner workings.
+Breadth-First Search is a classic pathfinding algorithm known for its simplicity and effectiveness in finding the shortest path in unweighted graphs. In Unity Pathfinders Visualized, BFS is brought to life through code that meticulously explores the grid, making it ideal for scenarios where finding the quickest route is essential.
 
-- **Dynamic Obstacle Generation:** Each time you run the scene, the project generates a dynamic grid with unique obstacles. This feature allows you to test the algorithms in diverse and challenging environments.
+#### Depth-First Search (DFS)
 
-## Getting Started
-### Prerequisites
-To get started with Unity Pathfinders Visualized, ensure you have the following prerequisites:
+Depth-First Search, another well-known algorithm, is characterized by its ability to explore as deeply as possible along a single branch before backtracking. Within this project, the DFS algorithm is implemented with precision, offering insights into its behavior and applications such as maze generation and topological sorting.
+
+#### Swarm Pathfinding
+
+Swarm Pathfinding is a unique and innovative algorithm that draws inspiration from swarm behavior. It provides an intriguing alternative to traditional pathfinding techniques. In this project, you'll find a carefully crafted implementation of Swarm Pathfinding, allowing you to witness how a simulated swarm navigates obstacles to reach its destination.
+
+### Key Features
+
+- **Real-Time Visualization**: Unity Pathfinders Visualized excels in providing real-time visual feedback of pathfinding algorithms as they operate in the Unity editor. Observe how each algorithm explores the grid, making decisions that lead to optimal paths.
+
+- **Dynamic Obstacle Generation**: With every run of the scene, the project generates a dynamic grid filled with unique obstacles. These obstacles can be adjusted and randomized, offering endless possibilities for testing the algorithms in various challenging scenarios.
+
+### Getting Started
+
+To begin your journey with Unity Pathfinders Visualized, ensure you have the following prerequisites:
 
 - Unity (Specify the required Unity version here)
 
-### Installation
-Follow these steps to set up the project:
+Follow these steps to set up and explore the project:
 
 1. Clone or download this repository to your local machine.
 2. Open the project in Unity.
-3. Run the scene to interact with and observe the pathfinding algorithms.
+3. Run the scene to interact with and observe the pathfinding algorithms in action.
 4. For an enhanced visualization experience, activate Gizmos in the Unity editor.
 
-## Usage
-Customize your pathfinding experience by adjusting various parameters and selecting different pathfinding algorithms. Experiment with different scenarios and gain a deeper understanding of how each algorithm behaves.
+### Usage
 
-## License
+Customize your pathfinding experiments by adjusting various parameters and selecting different algorithms. Dive into the intricacies of each algorithm's behavior as you create and explore unique grid environments.
+
+### License
+
+[Your License Information Here]
+
+Specify the license you want to use for this project, such as MIT, Apache, or any other license that suits your project's needs.
