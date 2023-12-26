@@ -1,5 +1,5 @@
 # Unity Pathfinders Visualized
-![BFS Example]([link-to-image](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(6).png))
+![BFS Example](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(6).png)
 
 
 ## Description
