@@ -1,15 +1,14 @@
 # Unity Pathfinders Visualized
-
-## Table of Contents
-1. Description
-2. Features
-3. Getting Started
-4. Usage
-5. Visuals
-6. License
+[![BFS Example](l)](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(6).png)
 
 ## Description
-Unity Pathfinders Visualized is a Unity project demonstrating key pathfinding algorithms: Breadth-First Search (BFS), Depth-First Search (DFS), and Swarm Pathfinding. This educational tool offers insight into each algorithm's approach within a dynamic grid environment.
+Unity Pathfinders Visualized is a Unity project that demonstrates pathfinding algorithms in action. This project provides implementations of three fundamental pathfinding algorithms:
+
+Breadth-First Search (BFS): This algorithm efficiently finds the shortest path in unweighted graphs.
+
+Depth-First Search (DFS): DFS explores deeply along a single path before backtracking, useful for tasks like maze generation.
+
+Swarm Pathfinding: Inspired by swarm behavior, this unique algorithm offers an alternative approach to pathfinding.
 
 ## Features
 - **Algorithm Simulations:** Visualize BFS, DFS, and Swarm algorithms.
@@ -26,10 +25,4 @@ Unity Pathfinders Visualized is a Unity project demonstrating key pathfinding al
 - Customize experiments by tweaking parameters.
 - Select different algorithms for comparative studies.
 
-## Visuals
-![BFS Example](link-to-image)
-*Add images or GIFs demonstrating the algorithms in action.*
-
 ## License
-*Specify the license or state "Not Specified".*
-
