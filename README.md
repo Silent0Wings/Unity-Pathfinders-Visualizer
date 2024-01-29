@@ -1,4 +1,4 @@
-# Unity Pathfinders Visualized
+# Unity Pathfinders Visualizer
 ![BFS Example](https://github.com/Silent0Wings/Unity-Pathfinders-Visualized/blob/main/ScreenShot/BFS%20(7).png)
 ## Description
 **Unity Pathfinders Visualized** is a Unity project demonstrating key pathfinding algorithms. The project implements:
