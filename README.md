@@ -14,10 +14,10 @@
 ## Getting Started
 1. Clone or download this repository.
 2. Open in Unity.
-3. Run the scene to observe pathfinding simulations.
-4. Enable Gizmos in Unity for enhanced visualization.
+3. Enable Gizmos in Unity for enhanced visualization.
+4. Run the scene to observe pathfinding simulations.
 
-*Note: Intended for Unity editor use only.*
+*Note: Intended for Unity editor use only ,Gizmos is only used for editor.*
 
 ## Usage
 - Customize experiments with different parameters.
